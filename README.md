@@ -20,9 +20,11 @@ git clone https://github.com/tu-usuario/challenge-pokemon.git
 cd challenge-pokemon
 ```
 ### 2. Instalación y funcionamiento
-Para instalar y ejecutar el Backend: Seguir las indicaciones del archivo readme.md en la carpeta Backend.
+### Backend
+Para instalar y ejecutar el Backend, ir a las indicaciones del archivo [README.md en la carpeta Backend](./backend-pokemon/README.md).
 
-Para instalar y ejecutar el Frontend: Seguir las indicaciones del archivo readme.md en la carpeta frontend.
+### Frontend
+Para instalar y ejecutar el Frontend, ir a las indicaciones del archivo [README.md en la carpeta Frontend](./frontend-pokemon/README.md).
 
 ## Imágenes
 
