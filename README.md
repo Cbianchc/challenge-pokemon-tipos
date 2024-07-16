@@ -26,8 +26,8 @@ Para instalar y ejecutar el Frontend: Seguir las indicaciones del archivo readme
 
 ## Imágenes
 
-![Alt text](frontend-pokemon/public/imgPokemon1.png)
+![Alt text](frontend-pokemon/public/imagenes/imgPokemon1.png)
 
-![Alt text](frontend-pokemon/public/imgPokemon2.png)
+![Alt text](frontend-pokemon/public/imagenes/imgPokemon2.png)
 
-![Alt text](frontend-pokemon/public/imgPokemon.png)
+![Alt text](frontend-pokemon/public/imagenes/imgPokemon.png)
