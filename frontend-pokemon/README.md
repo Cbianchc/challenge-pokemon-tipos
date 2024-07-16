@@ -35,9 +35,9 @@ Una vez inicializado el servidor y el frontend, se verán listados los Pokemon y
 
 ## Imágenes
 
-![Alt text](public/imgPokemon1.png)
+![Alt text](public/imagenes/imgPokemon1.png)
 
-![Alt text](public/imgPokemon2.png)
+![Alt text](public/imagenes/imgPokemon2.png)
 
-![Alt text](public/imgPokemon.png)
+![Alt text](public/imagenes/imgPokemon.png)
 
